@@ -1,0 +1,56 @@
+body{
+    background: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Caja{
+background-color: rgb(105, 213, 192);
+height: 100px;
+width: 300px;
+padding: 10px;
+margin: auto;
+text-align: center;
+border: 5px solid blanchedalmond;
+border-top-width: 0;
+border-bottom-width: 0;
+
+
+}
+.Caja2{
+    background-color: rgb(105, 213, 192);
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    border: 5px solid blanchedalmond;
+    border-top-width: 0;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    }
+header{
+    background-color: rgb(74, 228, 146);
+height: 40px;
+width: 300px;
+padding: 10px;
+margin: auto;
+text-align: center;
+border: 5px solid blanchedalmond;
+border-bottom-width: 0;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+}
+h1{
+    height: 100px;
+    width: 50px;
+    margin: auto;
+    padding: 5px;
+    text-align: center; 
+    font-weight: 100;
+}
+img{
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
